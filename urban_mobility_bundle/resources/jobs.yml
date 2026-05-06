@@ -1,0 +1,276 @@
+resources:
+  jobs:
+
+    # ──────────────────────────────────────────────────────────────────────────
+    # TRIPS pipeline  (4 tareas secuenciales)
+    # ──────────────────────────────────────────────────────────────────────────
+    trips_pipeline:
+      name: "[${bundle.target}] UM — trips pipeline"
+      existing_cluster_id: ${var.cluster_id}
+      email_notifications:
+        on_failure:
+          - ${var.notification_email}
+      tasks:
+        - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/00_metadata_generator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: trips
+              catalog: ${var.catalog}
+
+        - task_key: bronze_loader
+          depends_on:
+            - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/01_bronze_loader
+            source: WORKSPACE
+            base_parameters:
+              entity_name: trips
+              catalog: ${var.catalog}
+
+        - task_key: silver_cleaner
+          depends_on:
+            - task_key: bronze_loader
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/02_silver_cleaner
+            source: WORKSPACE
+            base_parameters:
+              entity_name: trips
+              catalog: ${var.catalog}
+
+        - task_key: gold_aggregator
+          depends_on:
+            - task_key: silver_cleaner
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/03_gold_aggregator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: trips
+              catalog: ${var.catalog}
+
+    # ──────────────────────────────────────────────────────────────────────────
+    # USERS pipeline
+    # ──────────────────────────────────────────────────────────────────────────
+    users_pipeline:
+      name: "[${bundle.target}] UM — users pipeline"
+      existing_cluster_id: ${var.cluster_id}
+      email_notifications:
+        on_failure:
+          - ${var.notification_email}
+      tasks:
+        - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/00_metadata_generator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: users
+              catalog: ${var.catalog}
+
+        - task_key: bronze_loader
+          depends_on:
+            - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/01_bronze_loader
+            source: WORKSPACE
+            base_parameters:
+              entity_name: users
+              catalog: ${var.catalog}
+
+        - task_key: silver_cleaner
+          depends_on:
+            - task_key: bronze_loader
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/02_silver_cleaner
+            source: WORKSPACE
+            base_parameters:
+              entity_name: users
+              catalog: ${var.catalog}
+
+        - task_key: gold_aggregator
+          depends_on:
+            - task_key: silver_cleaner
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/03_gold_aggregator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: users
+              catalog: ${var.catalog}
+
+    # ──────────────────────────────────────────────────────────────────────────
+    # VEHICLES pipeline
+    # ──────────────────────────────────────────────────────────────────────────
+    vehicles_pipeline:
+      name: "[${bundle.target}] UM — vehicles pipeline"
+      existing_cluster_id: ${var.cluster_id}
+      email_notifications:
+        on_failure:
+          - ${var.notification_email}
+      tasks:
+        - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/00_metadata_generator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: vehicles
+              catalog: ${var.catalog}
+
+        - task_key: bronze_loader
+          depends_on:
+            - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/01_bronze_loader
+            source: WORKSPACE
+            base_parameters:
+              entity_name: vehicles
+              catalog: ${var.catalog}
+
+        - task_key: silver_cleaner
+          depends_on:
+            - task_key: bronze_loader
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/02_silver_cleaner
+            source: WORKSPACE
+            base_parameters:
+              entity_name: vehicles
+              catalog: ${var.catalog}
+
+        - task_key: gold_aggregator
+          depends_on:
+            - task_key: silver_cleaner
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/03_gold_aggregator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: vehicles
+              catalog: ${var.catalog}
+
+    # ──────────────────────────────────────────────────────────────────────────
+    # MAINTENANCE_LOGS pipeline
+    # ──────────────────────────────────────────────────────────────────────────
+    maintenance_logs_pipeline:
+      name: "[${bundle.target}] UM — maintenance_logs pipeline"
+      existing_cluster_id: ${var.cluster_id}
+      email_notifications:
+        on_failure:
+          - ${var.notification_email}
+      tasks:
+        - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/00_metadata_generator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: maintenance_logs
+              catalog: ${var.catalog}
+
+        - task_key: bronze_loader
+          depends_on:
+            - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/01_bronze_loader
+            source: WORKSPACE
+            base_parameters:
+              entity_name: maintenance_logs
+              catalog: ${var.catalog}
+
+        - task_key: silver_cleaner
+          depends_on:
+            - task_key: bronze_loader
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/02_silver_cleaner
+            source: WORKSPACE
+            base_parameters:
+              entity_name: maintenance_logs
+              catalog: ${var.catalog}
+
+        - task_key: gold_aggregator
+          depends_on:
+            - task_key: silver_cleaner
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/03_gold_aggregator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: maintenance_logs
+              catalog: ${var.catalog}
+
+    # ──────────────────────────────────────────────────────────────────────────
+    # RIDE_EVENTS pipeline (batch)
+    # ──────────────────────────────────────────────────────────────────────────
+    ride_events_pipeline:
+      name: "[${bundle.target}] UM — ride_events pipeline"
+      existing_cluster_id: ${var.cluster_id}
+      email_notifications:
+        on_failure:
+          - ${var.notification_email}
+      tasks:
+        - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/00_metadata_generator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: ride_events
+              catalog: ${var.catalog}
+
+        - task_key: bronze_loader
+          depends_on:
+            - task_key: metadata_generator
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/01_bronze_loader
+            source: WORKSPACE
+            base_parameters:
+              entity_name: ride_events
+              catalog: ${var.catalog}
+
+        - task_key: silver_cleaner
+          depends_on:
+            - task_key: bronze_loader
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/02_silver_cleaner
+            source: WORKSPACE
+            base_parameters:
+              entity_name: ride_events
+              catalog: ${var.catalog}
+
+        - task_key: gold_aggregator
+          depends_on:
+            - task_key: silver_cleaner
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/03_gold_aggregator
+            source: WORKSPACE
+            base_parameters:
+              entity_name: ride_events
+              catalog: ${var.catalog}
+
+    # ──────────────────────────────────────────────────────────────────────────
+    # RIDE_EVENTS streaming pipeline (Auto Loader + trigger availableNow)
+    # ──────────────────────────────────────────────────────────────────────────
+    ride_events_streaming_pipeline:
+      name: "[${bundle.target}] UM — ride_events streaming pipeline"
+      existing_cluster_id: ${var.cluster_id}
+      email_notifications:
+        on_failure:
+          - ${var.notification_email}
+      tasks:
+        - task_key: streaming_ride_events
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/04_streaming_ride_events
+            source: WORKSPACE
+            base_parameters:
+              catalog: ${var.catalog}
+
+    # ──────────────────────────────────────────────────────────────────────────
+    # REFERENTIAL INTEGRITY DQ  (cross-entity, corre sobre Silver)
+    # ──────────────────────────────────────────────────────────────────────────
+    referential_integrity_dq:
+      name: "[${bundle.target}] UM — referential integrity DQ"
+      existing_cluster_id: ${var.cluster_id}
+      email_notifications:
+        on_failure:
+          - ${var.notification_email}
+      tasks:
+        - task_key: referential_integrity
+          notebook_task:
+            notebook_path: ${var.project_root}/notebooks/05_referential_integrity
+            source: WORKSPACE
+            base_parameters:
+              catalog: ${var.catalog}

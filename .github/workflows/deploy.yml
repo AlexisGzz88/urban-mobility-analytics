@@ -1,0 +1,52 @@
+name: Deploy Urban Mobility Bundle
+
+on:
+  push:
+    branches:
+      - main        # → producción
+      - dev         # → desarrollo
+  pull_request:
+    branches:
+      - main        # → desarrollo (validación antes del merge)
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Databricks CLI
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/databricks/setup-cli/main/install.sh | sh
+
+      - name: Determine target environment
+        id: target
+        run: |
+          if [[ "${{ github.ref }}" == "refs/heads/main" && "${{ github.event_name }}" == "push" ]]; then
+            echo "target=prod" >> $GITHUB_OUTPUT
+          else
+            echo "target=dev" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Validate bundle
+        env:
+          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+          DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+        working-directory: urban_mobility_bundle
+        run: databricks bundle validate -t ${{ steps.target.outputs.target }}
+
+      - name: Deploy bundle
+        env:
+          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+          DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+        working-directory: urban_mobility_bundle
+        run: databricks bundle deploy -t ${{ steps.target.outputs.target }}
+
+      - name: Summary
+        run: |
+          echo "### Deploy completado" >> $GITHUB_STEP_SUMMARY
+          echo "- **Target**: ${{ steps.target.outputs.target }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Branch**: ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Triggered by**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY

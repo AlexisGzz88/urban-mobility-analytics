@@ -1,0 +1,4002 @@
+[
+  {
+    "user_id": "USR0001",
+    "name": "Camila Diaz",
+    "email": "camila.diaz424@email.com",
+    "signup_date": "2023-07-23",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0002",
+    "name": "Ricardo Ramirez",
+    "email": "ricardo.ramirez514@email.com",
+    "signup_date": "2024-04-17",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0003",
+    "name": "Ricardo Martinez",
+    "email": "ricardo.martinez731@email.com",
+    "signup_date": "2023-02-02",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0004",
+    "name": "Valeria Sanchez",
+    "email": "valeria.sanchez413@email.com",
+    "signup_date": "03/07/2024",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0005",
+    "name": "Andrea Rivera",
+    "email": "andrea.rivera373@email.com",
+    "signup_date": "2024-10-02",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0006",
+    "name": "Carlos Sanchez",
+    "email": "carlos.sanchez403@email.com",
+    "signup_date": "2024-10-25",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0007",
+    "name": "Sofia Perez",
+    "email": "sofia.perez656@email.com",
+    "signup_date": "2024-12-24",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0008",
+    "name": "Maria Flores",
+    "email": "maria.flores853@email.com",
+    "signup_date": "29/09/2023",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0009",
+    "name": "Miguel Reyes",
+    "email": "miguel.reyes368@email.com",
+    "signup_date": "27/02/2024",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0010",
+    "name": "Carlos Garcia",
+    "email": "carlos.garcia326@email.com",
+    "signup_date": "26/04/2023",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0011",
+    "name": "Isabella Rivera",
+    "email": "isabella.rivera377@email.com",
+    "signup_date": "2023-05-31",
+    "plan_type": "Premium",
+    "city": "Leon"
+  },
+  {
+    "user_id": "USR0012",
+    "name": "Paola Martinez",
+    "email": "paola.martinez955@email.com",
+    "signup_date": "2023-04-08",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0013",
+    "name": "Jorge Rodriguez",
+    "email": "jorge.rodriguez102@email.com",
+    "signup_date": "03/10/2024",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0014",
+    "name": "Ana Gomez",
+    "email": "ana.gomez878@email.com",
+    "signup_date": "2025-05-24",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0015",
+    "name": "Roberto Ramirez",
+    "email": "roberto.ramirez672@email.com",
+    "signup_date": "2024-04-12",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0016",
+    "name": "Fernanda Diaz",
+    "email": "fernanda.diaz957@email.com",
+    "signup_date": "2023-12-01",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0017",
+    "name": "Isabella Rivera",
+    "email": "isabella.rivera963@email.com",
+    "signup_date": "28/03/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0018",
+    "name": "Miguel Rivera",
+    "email": "miguel.rivera88@email.com",
+    "signup_date": "2024-10-25",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0019",
+    "name": "Andrea Flores",
+    "email": "andrea.flores6@email.com",
+    "signup_date": "2023-12-11",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0020",
+    "name": "Carlos Sanchez",
+    "email": "carlos.sanchez727@email.com",
+    "signup_date": "30/04/2025",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0021",
+    "name": "Sofia Rivera",
+    "email": "sofia.rivera822@email.com",
+    "signup_date": "2024-09-27",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0022",
+    "name": "Ricardo Rodriguez",
+    "email": "ricardo.rodriguez181@email.com",
+    "signup_date": "2025-06-21",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0023",
+    "name": "Fernanda Morales",
+    "email": "fernanda.morales498@email.com",
+    "signup_date": "09/09/2024",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0024",
+    "name": "Carlos Lopez",
+    "email": "carlos.lopez515@email.com",
+    "signup_date": "2023-10-10",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0025",
+    "name": "Jorge Diaz",
+    "email": "jorge.diaz903@email.com",
+    "signup_date": "27/06/2024",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0026",
+    "name": "Paola Reyes",
+    "email": "paola.reyes361@email.com",
+    "signup_date": "2024-10-04",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0027",
+    "name": "Luis Gonzalez",
+    "email": null,
+    "signup_date": "18/11/2024",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0028",
+    "name": "Paola Diaz",
+    "email": "paola.diaz959@email.com",
+    "signup_date": "2024-05-24",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0029",
+    "name": "Carlos Martinez",
+    "email": null,
+    "signup_date": "10/08/2023",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0030",
+    "name": "Jorge Flores",
+    "email": "jorge.flores11@email.com",
+    "signup_date": "2023-07-15",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0031",
+    "name": "Carlos Reyes",
+    "email": "carlos.reyes311@email.com",
+    "signup_date": "2025-03-01",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0032",
+    "name": "Isabella Lopez",
+    "email": null,
+    "signup_date": "2023-12-19",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0033",
+    "name": "Isabella Martinez",
+    "email": "isabella.martinez804@email.com",
+    "signup_date": "2023-10-02",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0034",
+    "name": "Jorge Rodriguez",
+    "email": null,
+    "signup_date": "2025-06-03",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0035",
+    "name": "Camila Diaz",
+    "email": "camila.diaz978@email.com",
+    "signup_date": "2023-10-14",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0036",
+    "name": "Fernanda Ramirez",
+    "email": "fernanda.ramirez199@email.com",
+    "signup_date": "2024-10-19",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0037",
+    "name": "Eduardo Lopez",
+    "email": "eduardo.lopez901@email.com",
+    "signup_date": "23/05/2023",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0038",
+    "name": "Alejandro Rodriguez",
+    "email": "alejandro.rodriguez744@email.com",
+    "signup_date": "2025-01-17",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0039",
+    "name": "Miguel Gonzalez",
+    "email": "miguel.gonzalez464@email.com",
+    "signup_date": "2023-10-03",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0040",
+    "name": "Ricardo Morales",
+    "email": "ricardo.morales64@email.com",
+    "signup_date": "08/01/2024",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0041",
+    "name": "Sofia Morales",
+    "email": "sofia.morales523@email.com",
+    "signup_date": "2023-03-13",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0042",
+    "name": "Ana Rivera",
+    "email": "ana.rivera383@email.com",
+    "signup_date": "29/11/2023",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0043",
+    "name": "Maria Torres",
+    "email": "maria.torres235@email.com",
+    "signup_date": "2023-10-18",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0044",
+    "name": "Paola Diaz",
+    "email": "paola.diaz692@email.com",
+    "signup_date": "14/07/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0045",
+    "name": "Roberto Sanchez",
+    "email": "roberto.sanchez888@email.com",
+    "signup_date": "23/05/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0046",
+    "name": "Ana Rodriguez",
+    "email": "ana.rodriguez748@email.com",
+    "signup_date": "2023-11-20",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0047",
+    "name": "Ricardo Rodriguez",
+    "email": "ricardo.rodriguez211@email.com",
+    "signup_date": "2025-01-18",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0048",
+    "name": "Daniela Martinez",
+    "email": "daniela.martinez552@email.com",
+    "signup_date": "2023-01-17",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0049",
+    "name": "Sofia Rodriguez",
+    "email": "sofia.rodriguez158@email.com",
+    "signup_date": "2024-06-21",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0050",
+    "name": "Carlos Gonzalez",
+    "email": "carlos.gonzalez555@email.com",
+    "signup_date": "03/04/2024",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0051",
+    "name": "Juan Morales",
+    "email": "juan.morales700@email.com",
+    "signup_date": "2024-01-16",
+    "plan_type": "Basic",
+    "city": "Merida"
+  },
+  {
+    "user_id": "USR0052",
+    "name": "Maria Perez",
+    "email": "maria.perez137@email.com",
+    "signup_date": "2023-08-11",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0053",
+    "name": "Camila Ramirez",
+    "email": null,
+    "signup_date": "2023-11-03",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0054",
+    "name": "Eduardo Martinez",
+    "email": "eduardo.martinez172@email.com",
+    "signup_date": "2023-06-24",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0055",
+    "name": "Sofia Morales",
+    "email": "sofia.morales115@email.com",
+    "signup_date": "2025-05-15",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0056",
+    "name": "Isabella Diaz",
+    "email": "isabella.diaz80@email.com",
+    "signup_date": "14/08/2023",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0057",
+    "name": "Maria Lopez",
+    "email": "maria.lopez626@email.com",
+    "signup_date": "2024-04-30",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0058",
+    "name": "Paola Perez",
+    "email": "paola.perez221@email.com",
+    "signup_date": "25/06/2024",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0059",
+    "name": "Jorge Flores",
+    "email": "jorge.flores193@email.com",
+    "signup_date": "31/07/2024",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0060",
+    "name": "Maria Torres",
+    "email": "maria.torres475@email.com",
+    "signup_date": "2023-07-03",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0061",
+    "name": "Camila Morales",
+    "email": "camila.morales219@email.com",
+    "signup_date": "2024-11-29",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0062",
+    "name": "Diego Gomez",
+    "email": null,
+    "signup_date": "2024-03-14",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0063",
+    "name": "Ricardo Garcia",
+    "email": "ricardo.garcia486@email.com",
+    "signup_date": "2023-12-15",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0064",
+    "name": "Isabella Rivera",
+    "email": "isabella.rivera743@email.com",
+    "signup_date": "2024-07-28",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0065",
+    "name": "Paola Ramirez",
+    "email": "paola.ramirez24@email.com",
+    "signup_date": "15/11/2023",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0066",
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia941@email.com",
+    "signup_date": "08/04/2024",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0067",
+    "name": "Daniela Perez",
+    "email": "daniela.perez781@email.com",
+    "signup_date": "2025-03-22",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0068",
+    "name": "Diego Morales",
+    "email": "diego.morales14@email.com",
+    "signup_date": "27/05/2024",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0069",
+    "name": "Maria Lopez",
+    "email": "maria.lopez310@email.com",
+    "signup_date": "2024-07-17",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0070",
+    "name": "Alejandro Lopez",
+    "email": "alejandro.lopez975@email.com",
+    "signup_date": "2024-03-08",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0071",
+    "name": "Roberto Ramirez",
+    "email": "roberto.ramirez373@email.com",
+    "signup_date": "03/12/2024",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0072",
+    "name": "Eduardo Perez",
+    "email": "eduardo.perez29@email.com",
+    "signup_date": "2025-04-29",
+    "plan_type": "basic",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0073",
+    "name": "Fernanda Rivera",
+    "email": "fernanda.rivera754@email.com",
+    "signup_date": "2024-08-19",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0074",
+    "name": "Isabella Garcia",
+    "email": "isabella.garcia655@email.com",
+    "signup_date": "18/07/2024",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0075",
+    "name": "Valeria Martinez",
+    "email": "valeria.martinez947@email.com",
+    "signup_date": "2024-03-13",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0076",
+    "name": "Daniela Perez",
+    "email": "daniela.perez528@email.com",
+    "signup_date": "2024-09-23",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0077",
+    "name": "Jorge Martinez",
+    "email": "jorge.martinez489@email.com",
+    "signup_date": "2023-04-05",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0078",
+    "name": "Paola Reyes",
+    "email": "paola.reyes166@email.com",
+    "signup_date": "2024-08-20",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0079",
+    "name": "Alejandro Martinez",
+    "email": "alejandro.martinez818@email.com",
+    "signup_date": "2024-12-10",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0080",
+    "name": "Ana Ramirez",
+    "email": "ana.ramirez813@email.com",
+    "signup_date": "2024-09-04",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0081",
+    "name": "Ricardo Torres",
+    "email": null,
+    "signup_date": "2024-12-08",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0082",
+    "name": "Camila Gonzalez",
+    "email": "camila.gonzalez446@email.com",
+    "signup_date": "25/07/2023",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0083",
+    "name": "Valeria Morales",
+    "email": "valeria.morales363@email.com",
+    "signup_date": "2023-08-08",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0084",
+    "name": "Jorge Rivera",
+    "email": "jorge.rivera312@email.com",
+    "signup_date": "31/08/2023",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0085",
+    "name": "Carlos Martinez",
+    "email": "carlos.martinez46@email.com",
+    "signup_date": "2023-06-07",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0086",
+    "name": "Isabella Rivera",
+    "email": "isabella.rivera854@email.com",
+    "signup_date": "2023-06-01",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0087",
+    "name": "Valeria Rivera",
+    "email": "valeria.rivera724@email.com",
+    "signup_date": "2023-07-12",
+    "plan_type": "basic",
+    "city": "Cancun"
+  },
+  {
+    "user_id": "USR0088",
+    "name": "Luis Perez",
+    "email": "luis.perez574@email.com",
+    "signup_date": "10/07/2024",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0089",
+    "name": "Roberto Martinez",
+    "email": "roberto.martinez159@email.com",
+    "signup_date": "2025-02-11",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0090",
+    "name": "Juan Ramirez",
+    "email": "juan.ramirez82@email.com",
+    "signup_date": "2023-10-05",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0091",
+    "name": "Ana Torres",
+    "email": "ana.torres360@email.com",
+    "signup_date": "2023-07-07",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0092",
+    "name": "Carlos Rodriguez",
+    "email": "carlos.rodriguez57@email.com",
+    "signup_date": "2024-07-18",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0093",
+    "name": "Paola Perez",
+    "email": "paola.perez118@email.com",
+    "signup_date": "2025-01-27",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0094",
+    "name": "Ricardo Rivera",
+    "email": "ricardo.rivera147@email.com",
+    "signup_date": "2023-07-20",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0095",
+    "name": "Sofia Perez",
+    "email": null,
+    "signup_date": "31/10/2023",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0096",
+    "name": "Daniela Reyes",
+    "email": "daniela.reyes638@email.com",
+    "signup_date": "2025-02-25",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0097",
+    "name": "Isabella Flores",
+    "email": "isabella.flores226@email.com",
+    "signup_date": "2025-04-20",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0098",
+    "name": "Andrea Torres",
+    "email": "andrea.torres25@email.com",
+    "signup_date": "2024-02-14",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0099",
+    "name": "Fernanda Perez",
+    "email": "fernanda.perez343@email.com",
+    "signup_date": "2024-04-05",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0100",
+    "name": "Andrea Torres",
+    "email": "andrea.torres899@email.com",
+    "signup_date": "17/05/2024",
+    "plan_type": "Premium",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0101",
+    "name": "Diego Diaz",
+    "email": "diego.diaz804@email.com",
+    "signup_date": "2024-12-12",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0102",
+    "name": "Eduardo Diaz",
+    "email": "eduardo.diaz102@email.com",
+    "signup_date": "2024-10-16",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0103",
+    "name": "Miguel Rodriguez",
+    "email": "miguel.rodriguez363@email.com",
+    "signup_date": "04/09/2023",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0104",
+    "name": "Daniela Flores",
+    "email": "daniela.flores273@email.com",
+    "signup_date": "17/03/2025",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0105",
+    "name": "Luis Lopez",
+    "email": "luis.lopez803@email.com",
+    "signup_date": "17/06/2025",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0106",
+    "name": "Roberto Lopez",
+    "email": "roberto.lopez407@email.com",
+    "signup_date": "2025-03-27",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0107",
+    "name": "Isabella Torres",
+    "email": "isabella.torres186@email.com",
+    "signup_date": "2024-06-15",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0108",
+    "name": "Andrea Rodriguez",
+    "email": "andrea.rodriguez568@email.com",
+    "signup_date": "2025-06-28",
+    "plan_type": "premium",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0109",
+    "name": "Eduardo Reyes",
+    "email": "eduardo.reyes571@email.com",
+    "signup_date": "2023-07-05",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0110",
+    "name": "Roberto Lopez",
+    "email": "roberto.lopez847@email.com",
+    "signup_date": "2025-06-26",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0111",
+    "name": "Paola Sanchez",
+    "email": "paola.sanchez768@email.com",
+    "signup_date": "2023-03-16",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0112",
+    "name": "Ricardo Diaz",
+    "email": "ricardo.diaz25@email.com",
+    "signup_date": "2023-04-04",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0113",
+    "name": "Carlos Gonzalez",
+    "email": "carlos.gonzalez2@email.com",
+    "signup_date": "2024-04-03",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0114",
+    "name": "Ricardo Torres",
+    "email": "ricardo.torres93@email.com",
+    "signup_date": "2025-03-25",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0115",
+    "name": "Miguel Diaz",
+    "email": null,
+    "signup_date": "03/05/2023",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0116",
+    "name": "Ricardo Flores",
+    "email": "ricardo.flores899@email.com",
+    "signup_date": "2024-10-25",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0117",
+    "name": "Daniela Sanchez",
+    "email": "daniela.sanchez591@email.com",
+    "signup_date": "2024-02-22",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0118",
+    "name": "Andrea Gonzalez",
+    "email": "andrea.gonzalez422@email.com",
+    "signup_date": "2024-12-05",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0119",
+    "name": "Isabella Rodriguez",
+    "email": "isabella.rodriguez701@email.com",
+    "signup_date": "2023-09-13",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0120",
+    "name": "Miguel Ramirez",
+    "email": "miguel.ramirez800@email.com",
+    "signup_date": "18/05/2023",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0121",
+    "name": "Camila Ramirez",
+    "email": "camila.ramirez996@email.com",
+    "signup_date": "2023-06-21",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0122",
+    "name": "Ricardo Perez",
+    "email": "ricardo.perez621@email.com",
+    "signup_date": "2024-08-30",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0123",
+    "name": "Juan Gonzalez",
+    "email": null,
+    "signup_date": "2023-03-09",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0124",
+    "name": "Maria Garcia",
+    "email": "maria.garcia23@email.com",
+    "signup_date": "10/05/2025",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0125",
+    "name": "Miguel Rodriguez",
+    "email": "miguel.rodriguez606@email.com",
+    "signup_date": "20/11/2024",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0126",
+    "name": "Juan Sanchez",
+    "email": "juan.sanchez78@email.com",
+    "signup_date": "2025-05-27",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0127",
+    "name": "Diego Morales",
+    "email": "diego.morales92@email.com",
+    "signup_date": "2025-05-30",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0128",
+    "name": "Luis Gomez",
+    "email": "luis.gomez410@email.com",
+    "signup_date": "2024-05-16",
+    "plan_type": "PREMIUM",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0129",
+    "name": "Miguel Gonzalez",
+    "email": "miguel.gonzalez385@email.com",
+    "signup_date": "31/05/2024",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0130",
+    "name": "Fernanda Garcia",
+    "email": "fernanda.garcia171@email.com",
+    "signup_date": "2025-04-10",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0131",
+    "name": "Paola Garcia",
+    "email": "paola.garcia767@email.com",
+    "signup_date": "30/05/2023",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0132",
+    "name": "Eduardo Sanchez",
+    "email": "eduardo.sanchez341@email.com",
+    "signup_date": "2023-07-17",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0133",
+    "name": "Maria Garcia",
+    "email": "maria.garcia991@email.com",
+    "signup_date": "2024-03-15",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0134",
+    "name": "Diego Lopez",
+    "email": "diego.lopez345@email.com",
+    "signup_date": "02/09/2024",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0135",
+    "name": "Paola Rivera",
+    "email": "paola.rivera342@email.com",
+    "signup_date": "2023-10-09",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0136",
+    "name": "Isabella Ramirez",
+    "email": "isabella.ramirez46@email.com",
+    "signup_date": "2023-08-21",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0137",
+    "name": "Miguel Ramirez",
+    "email": "miguel.ramirez143@email.com",
+    "signup_date": "2023-06-11",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0138",
+    "name": "Daniela Garcia",
+    "email": "daniela.garcia434@email.com",
+    "signup_date": "12/05/2025",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0139",
+    "name": "Juan Martinez",
+    "email": "juan.martinez895@email.com",
+    "signup_date": "2024-11-13",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0140",
+    "name": "Roberto Morales",
+    "email": "roberto.morales785@email.com",
+    "signup_date": "2024-03-04",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0141",
+    "name": "Valeria Lopez",
+    "email": "valeria.lopez462@email.com",
+    "signup_date": "13/04/2023",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0142",
+    "name": "Diego Sanchez",
+    "email": "diego.sanchez433@email.com",
+    "signup_date": "2023-06-05",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0143",
+    "name": "Juan Reyes",
+    "email": "juan.reyes22@email.com",
+    "signup_date": "18/02/2025",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0144",
+    "name": "Daniela Diaz",
+    "email": "daniela.diaz777@email.com",
+    "signup_date": "2025-04-02",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0145",
+    "name": "Paola Perez",
+    "email": "paola.perez442@email.com",
+    "signup_date": "2023-02-17",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0146",
+    "name": "Fernanda Torres",
+    "email": "fernanda.torres104@email.com",
+    "signup_date": "2024-03-13",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0147",
+    "name": "Camila Torres",
+    "email": null,
+    "signup_date": "2023-09-15",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0148",
+    "name": "Valeria Diaz",
+    "email": "valeria.diaz409@email.com",
+    "signup_date": "2023-08-23",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0149",
+    "name": "Isabella Ramirez",
+    "email": "isabella.ramirez384@email.com",
+    "signup_date": "2024-08-01",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0150",
+    "name": "Daniela Lopez",
+    "email": "daniela.lopez748@email.com",
+    "signup_date": "2024-10-29",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0151",
+    "name": "Fernanda Gomez",
+    "email": "fernanda.gomez840@email.com",
+    "signup_date": "2025-05-17",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0152",
+    "name": "Diego Reyes",
+    "email": "diego.reyes450@email.com",
+    "signup_date": "2023-09-11",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0153",
+    "name": "Jorge Lopez",
+    "email": "jorge.lopez525@email.com",
+    "signup_date": "2024-07-11",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0154",
+    "name": "Andrea Rivera",
+    "email": "andrea.rivera791@email.com",
+    "signup_date": "27/06/2023",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0155",
+    "name": "Carlos Ramirez",
+    "email": "carlos.ramirez751@email.com",
+    "signup_date": "18/03/2024",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0156",
+    "name": "Diego Ramirez",
+    "email": "diego.ramirez619@email.com",
+    "signup_date": "2024-02-28",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0157",
+    "name": "Maria Flores",
+    "email": "maria.flores297@email.com",
+    "signup_date": "2024-06-28",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0158",
+    "name": "Luis Martinez",
+    "email": "luis.martinez891@email.com",
+    "signup_date": "2024-10-17",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0159",
+    "name": "Andrea Perez",
+    "email": null,
+    "signup_date": "2024-02-06",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0160",
+    "name": "Paola Morales",
+    "email": "paola.morales550@email.com",
+    "signup_date": "2023-11-30",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0161",
+    "name": "Juan Reyes",
+    "email": "juan.reyes17@email.com",
+    "signup_date": "2024-05-07",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0162",
+    "name": "Sofia Martinez",
+    "email": "sofia.martinez836@email.com",
+    "signup_date": "03/10/2023",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0163",
+    "name": "Carlos Gonzalez",
+    "email": null,
+    "signup_date": "02/10/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0164",
+    "name": "Maria Torres",
+    "email": "maria.torres722@email.com",
+    "signup_date": "2024-04-26",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0165",
+    "name": "Isabella Morales",
+    "email": "isabella.morales618@email.com",
+    "signup_date": "2023-05-26",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0166",
+    "name": "Maria Sanchez",
+    "email": "maria.sanchez691@email.com",
+    "signup_date": "16/10/2024",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0167",
+    "name": "Roberto Rodriguez",
+    "email": "roberto.rodriguez736@email.com",
+    "signup_date": "2025-06-23",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0168",
+    "name": "Eduardo Lopez",
+    "email": "eduardo.lopez642@email.com",
+    "signup_date": "2023-09-29",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0169",
+    "name": "Alejandro Gonzalez",
+    "email": "alejandro.gonzalez672@email.com",
+    "signup_date": "2025-03-17",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0170",
+    "name": "Daniela Sanchez",
+    "email": "daniela.sanchez911@email.com",
+    "signup_date": "05/05/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0171",
+    "name": "Miguel Flores",
+    "email": "miguel.flores412@email.com",
+    "signup_date": "2023-02-20",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0172",
+    "name": "Fernanda Garcia",
+    "email": "fernanda.garcia761@email.com",
+    "signup_date": "2023-04-14",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0173",
+    "name": "Daniela Reyes",
+    "email": "daniela.reyes538@email.com",
+    "signup_date": "2024-08-17",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0174",
+    "name": "Valeria Flores",
+    "email": "valeria.flores469@email.com",
+    "signup_date": "15/06/2023",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0175",
+    "name": "Alejandro Garcia",
+    "email": "alejandro.garcia691@email.com",
+    "signup_date": "2024-12-22",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0176",
+    "name": "Ricardo Torres",
+    "email": "ricardo.torres349@email.com",
+    "signup_date": "2023-05-05",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0177",
+    "name": "Fernanda Sanchez",
+    "email": "fernanda.sanchez567@email.com",
+    "signup_date": "2023-09-04",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0178",
+    "name": "Sofia Flores",
+    "email": "sofia.flores994@email.com",
+    "signup_date": "2025-03-13",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0179",
+    "name": "Juan Gonzalez",
+    "email": "juan.gonzalez135@email.com",
+    "signup_date": "2023-01-03",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0180",
+    "name": "Camila Torres",
+    "email": "camila.torres687@email.com",
+    "signup_date": "12/06/2024",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0181",
+    "name": "Sofia Flores",
+    "email": "sofia.flores893@email.com",
+    "signup_date": "2024-09-21",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0182",
+    "name": "Alejandro Martinez",
+    "email": "alejandro.martinez178@email.com",
+    "signup_date": "2024-10-10",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0183",
+    "name": "Andrea Morales",
+    "email": "andrea.morales995@email.com",
+    "signup_date": "2023-11-02",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0184",
+    "name": "Alejandro Sanchez",
+    "email": "alejandro.sanchez561@email.com",
+    "signup_date": "13/06/2024",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0185",
+    "name": "Carlos Gonzalez",
+    "email": "carlos.gonzalez421@email.com",
+    "signup_date": "08/04/2024",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0186",
+    "name": "Eduardo Gonzalez",
+    "email": "eduardo.gonzalez60@email.com",
+    "signup_date": "21/08/2023",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0187",
+    "name": "Alejandro Perez",
+    "email": "alejandro.perez767@email.com",
+    "signup_date": "2024-02-20",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0188",
+    "name": "Isabella Gomez",
+    "email": null,
+    "signup_date": "2023-08-15",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0189",
+    "name": "Ricardo Reyes",
+    "email": "ricardo.reyes830@email.com",
+    "signup_date": "2023-04-21",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0190",
+    "name": "Miguel Martinez",
+    "email": "miguel.martinez467@email.com",
+    "signup_date": "2024-10-29",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0191",
+    "name": "Juan Garcia",
+    "email": "juan.garcia170@email.com",
+    "signup_date": "2025-01-21",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0192",
+    "name": "Ana Diaz",
+    "email": "ana.diaz307@email.com",
+    "signup_date": "2023-10-24",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0193",
+    "name": "Ricardo Sanchez",
+    "email": null,
+    "signup_date": "2023-09-29",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0194",
+    "name": "Andrea Lopez",
+    "email": "andrea.lopez65@email.com",
+    "signup_date": "2025-03-27",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0195",
+    "name": "Andrea Gonzalez",
+    "email": "andrea.gonzalez908@email.com",
+    "signup_date": "2023-03-30",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0196",
+    "name": "Paola Rivera",
+    "email": "paola.rivera996@email.com",
+    "signup_date": "2024-06-15",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0197",
+    "name": "Camila Diaz",
+    "email": "camila.diaz7@email.com",
+    "signup_date": "2024-12-28",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0198",
+    "name": "Carlos Rivera",
+    "email": "carlos.rivera627@email.com",
+    "signup_date": "28/04/2023",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0199",
+    "name": "Juan Perez",
+    "email": null,
+    "signup_date": "2025-05-03",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0200",
+    "name": "Camila Ramirez",
+    "email": "camila.ramirez760@email.com",
+    "signup_date": "14/06/2024",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0201",
+    "name": "Juan Diaz",
+    "email": "juan.diaz860@email.com",
+    "signup_date": "2025-03-31",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0202",
+    "name": "Ana Sanchez",
+    "email": "ana.sanchez884@email.com",
+    "signup_date": "2024-05-13",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0203",
+    "name": "Daniela Perez",
+    "email": "daniela.perez845@email.com",
+    "signup_date": "24/03/2025",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0204",
+    "name": "Isabella Lopez",
+    "email": "isabella.lopez200@email.com",
+    "signup_date": "2024-02-17",
+    "plan_type": "premium",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0205",
+    "name": "Andrea Garcia",
+    "email": "andrea.garcia211@email.com",
+    "signup_date": "2024-07-24",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0206",
+    "name": "Luis Garcia",
+    "email": "luis.garcia761@email.com",
+    "signup_date": "2024-11-17",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0207",
+    "name": "Diego Gomez",
+    "email": "diego.gomez358@email.com",
+    "signup_date": "20/12/2023",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0208",
+    "name": "Sofia Martinez",
+    "email": "sofia.martinez607@email.com",
+    "signup_date": "2023-01-04",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0209",
+    "name": "Valeria Morales",
+    "email": "valeria.morales875@email.com",
+    "signup_date": "2025-02-21",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0210",
+    "name": "Eduardo Garcia",
+    "email": "eduardo.garcia184@email.com",
+    "signup_date": "2024-08-30",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0211",
+    "name": "Isabella Martinez",
+    "email": "isabella.martinez281@email.com",
+    "signup_date": "2024-12-21",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0212",
+    "name": "Maria Torres",
+    "email": null,
+    "signup_date": "2025-04-01",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0213",
+    "name": "Maria Torres",
+    "email": "maria.torres723@email.com",
+    "signup_date": "02/04/2024",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0214",
+    "name": "Paola Morales",
+    "email": null,
+    "signup_date": "2024-10-01",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0215",
+    "name": "Camila Lopez",
+    "email": null,
+    "signup_date": "14/03/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0216",
+    "name": "Roberto Flores",
+    "email": "roberto.flores973@email.com",
+    "signup_date": "2024-08-23",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0217",
+    "name": "Luis Morales",
+    "email": "luis.morales252@email.com",
+    "signup_date": "2023-11-08",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0218",
+    "name": "Jorge Perez",
+    "email": "jorge.perez333@email.com",
+    "signup_date": "2023-08-14",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0219",
+    "name": "Miguel Sanchez",
+    "email": null,
+    "signup_date": "2023-08-21",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0220",
+    "name": "Eduardo Ramirez",
+    "email": "eduardo.ramirez735@email.com",
+    "signup_date": "2023-05-18",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0221",
+    "name": "Isabella Garcia",
+    "email": "isabella.garcia95@email.com",
+    "signup_date": "2023-05-30",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0222",
+    "name": "Sofia Martinez",
+    "email": "sofia.martinez795@email.com",
+    "signup_date": "2025-05-27",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0223",
+    "name": "Paola Diaz",
+    "email": "paola.diaz860@email.com",
+    "signup_date": "2023-02-02",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0224",
+    "name": "Carlos Morales",
+    "email": "carlos.morales393@email.com",
+    "signup_date": "18/04/2025",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0225",
+    "name": "Fernanda Torres",
+    "email": "fernanda.torres691@email.com",
+    "signup_date": "09/05/2025",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0226",
+    "name": "Jorge Ramirez",
+    "email": "jorge.ramirez963@email.com",
+    "signup_date": "2023-02-21",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0227",
+    "name": "Carlos Sanchez",
+    "email": "carlos.sanchez406@email.com",
+    "signup_date": "30/03/2023",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0228",
+    "name": "Roberto Gomez",
+    "email": "roberto.gomez407@email.com",
+    "signup_date": "2024-10-10",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0229",
+    "name": "Juan Sanchez",
+    "email": null,
+    "signup_date": "12/11/2024",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0230",
+    "name": "Valeria Rodriguez",
+    "email": "valeria.rodriguez155@email.com",
+    "signup_date": "2024-08-16",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0231",
+    "name": "Eduardo Ramirez",
+    "email": "eduardo.ramirez337@email.com",
+    "signup_date": "2024-07-25",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0232",
+    "name": "Carlos Martinez",
+    "email": "carlos.martinez33@email.com",
+    "signup_date": "2023-07-25",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0233",
+    "name": "Juan Garcia",
+    "email": "juan.garcia774@email.com",
+    "signup_date": "2025-06-13",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0234",
+    "name": "Andrea Martinez",
+    "email": "andrea.martinez793@email.com",
+    "signup_date": "2024-07-11",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0235",
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia464@email.com",
+    "signup_date": "2023-07-29",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0236",
+    "name": "Andrea Reyes",
+    "email": "andrea.reyes370@email.com",
+    "signup_date": "2024-01-26",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0237",
+    "name": "Alejandro Gonzalez",
+    "email": "alejandro.gonzalez145@email.com",
+    "signup_date": "2023-02-01",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0238",
+    "name": "Camila Gomez",
+    "email": "camila.gomez651@email.com",
+    "signup_date": "2024-01-15",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0239",
+    "name": "Maria Ramirez",
+    "email": "maria.ramirez499@email.com",
+    "signup_date": "18/06/2024",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0240",
+    "name": "Valeria Rivera",
+    "email": "valeria.rivera795@email.com",
+    "signup_date": "21/07/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0241",
+    "name": "Juan Diaz",
+    "email": "juan.diaz493@email.com",
+    "signup_date": "31/01/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0242",
+    "name": "Valeria Lopez",
+    "email": null,
+    "signup_date": "2024-07-10",
+    "plan_type": "basic",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0243",
+    "name": "Maria Flores",
+    "email": "maria.flores995@email.com",
+    "signup_date": "19/11/2024",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0244",
+    "name": "Eduardo Rivera",
+    "email": "eduardo.rivera754@email.com",
+    "signup_date": "2023-04-12",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0245",
+    "name": "Miguel Flores",
+    "email": "miguel.flores876@email.com",
+    "signup_date": "19/02/2024",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0246",
+    "name": "Isabella Morales",
+    "email": "isabella.morales170@email.com",
+    "signup_date": "2024-08-05",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0247",
+    "name": "Roberto Rodriguez",
+    "email": "roberto.rodriguez439@email.com",
+    "signup_date": "2024-04-19",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0248",
+    "name": "Juan Perez",
+    "email": "juan.perez670@email.com",
+    "signup_date": "2024-10-17",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0249",
+    "name": "Isabella Flores",
+    "email": "isabella.flores851@email.com",
+    "signup_date": "2024-02-05",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0250",
+    "name": "Paola Martinez",
+    "email": "paola.martinez115@email.com",
+    "signup_date": "2023-04-12",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0251",
+    "name": "Daniela Garcia",
+    "email": "daniela.garcia781@email.com",
+    "signup_date": "24/10/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0252",
+    "name": "Ana Sanchez",
+    "email": "ana.sanchez232@email.com",
+    "signup_date": "2024-09-09",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0253",
+    "name": "Camila Sanchez",
+    "email": "camila.sanchez664@email.com",
+    "signup_date": "13/03/2023",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0254",
+    "name": "Ana Sanchez",
+    "email": "ana.sanchez803@email.com",
+    "signup_date": "16/10/2023",
+    "plan_type": "Premium",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0255",
+    "name": "Ana Garcia",
+    "email": null,
+    "signup_date": "2023-06-29",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0256",
+    "name": "Ana Perez",
+    "email": "ana.perez400@email.com",
+    "signup_date": "2023-12-15",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0257",
+    "name": "Sofia Gomez",
+    "email": "sofia.gomez582@email.com",
+    "signup_date": "2025-06-30",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0258",
+    "name": "Fernanda Gomez",
+    "email": "fernanda.gomez79@email.com",
+    "signup_date": "2023-09-14",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0259",
+    "name": "Luis Gonzalez",
+    "email": "luis.gonzalez447@email.com",
+    "signup_date": "2025-03-26",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0260",
+    "name": "Sofia Ramirez",
+    "email": "sofia.ramirez707@email.com",
+    "signup_date": "2023-06-08",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0261",
+    "name": "Maria Perez",
+    "email": "maria.perez722@email.com",
+    "signup_date": "2023-05-02",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0262",
+    "name": "Alejandro Rodriguez",
+    "email": "alejandro.rodriguez802@email.com",
+    "signup_date": "2024-10-22",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0263",
+    "name": "Ana Rodriguez",
+    "email": "ana.rodriguez350@email.com",
+    "signup_date": "2023-05-30",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0264",
+    "name": "Roberto Garcia",
+    "email": "roberto.garcia166@email.com",
+    "signup_date": "2025-05-18",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0265",
+    "name": "Paola Gomez",
+    "email": "paola.gomez838@email.com",
+    "signup_date": "26/11/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0266",
+    "name": "Camila Lopez",
+    "email": "camila.lopez581@email.com",
+    "signup_date": "2025-06-06",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0267",
+    "name": "Jorge Ramirez",
+    "email": "jorge.ramirez169@email.com",
+    "signup_date": "2023-09-12",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0268",
+    "name": "Jorge Rodriguez",
+    "email": "jorge.rodriguez580@email.com",
+    "signup_date": "09/04/2024",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0269",
+    "name": "Roberto Ramirez",
+    "email": "roberto.ramirez483@email.com",
+    "signup_date": "2024-07-22",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0270",
+    "name": "Ricardo Rodriguez",
+    "email": "ricardo.rodriguez346@email.com",
+    "signup_date": "17/11/2023",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0271",
+    "name": "Andrea Perez",
+    "email": "andrea.perez655@email.com",
+    "signup_date": "2024-04-28",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0272",
+    "name": "Paola Perez",
+    "email": "paola.perez427@email.com",
+    "signup_date": "27/01/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0273",
+    "name": "Eduardo Morales",
+    "email": "eduardo.morales933@email.com",
+    "signup_date": "2025-04-08",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0274",
+    "name": "Sofia Gonzalez",
+    "email": "sofia.gonzalez657@email.com",
+    "signup_date": "24/03/2025",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0275",
+    "name": "Roberto Ramirez",
+    "email": "roberto.ramirez288@email.com",
+    "signup_date": "2023-10-30",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0276",
+    "name": "Alejandro Reyes",
+    "email": "alejandro.reyes628@email.com",
+    "signup_date": "2025-02-28",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0277",
+    "name": "Carlos Flores",
+    "email": "carlos.flores506@email.com",
+    "signup_date": "2025-03-13",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0278",
+    "name": "Alejandro Torres",
+    "email": "alejandro.torres629@email.com",
+    "signup_date": "2025-03-11",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0279",
+    "name": "Diego Garcia",
+    "email": "diego.garcia610@email.com",
+    "signup_date": "13/11/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0280",
+    "name": "Fernanda Diaz",
+    "email": "fernanda.diaz321@email.com",
+    "signup_date": "2025-03-07",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0281",
+    "name": "Alejandro Morales",
+    "email": "alejandro.morales91@email.com",
+    "signup_date": "2024-10-16",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0282",
+    "name": "Sofia Torres",
+    "email": "sofia.torres374@email.com",
+    "signup_date": "2024-09-19",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0283",
+    "name": "Sofia Reyes",
+    "email": "sofia.reyes79@email.com",
+    "signup_date": "2023-09-14",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0284",
+    "name": "Juan Perez",
+    "email": "juan.perez797@email.com",
+    "signup_date": "2023-07-10",
+    "plan_type": "premium",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0285",
+    "name": "Luis Gomez",
+    "email": "luis.gomez438@email.com",
+    "signup_date": "2024-12-18",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0286",
+    "name": "Carlos Sanchez",
+    "email": "carlos.sanchez675@email.com",
+    "signup_date": "2023-06-23",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0287",
+    "name": "Isabella Rodriguez",
+    "email": null,
+    "signup_date": "2025-02-01",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0288",
+    "name": "Camila Lopez",
+    "email": "camila.lopez43@email.com",
+    "signup_date": "13/11/2024",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0289",
+    "name": "Paola Garcia",
+    "email": "paola.garcia833@email.com",
+    "signup_date": "2025-01-30",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0290",
+    "name": "Carlos Lopez",
+    "email": "carlos.lopez752@email.com",
+    "signup_date": "11/04/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0291",
+    "name": "Valeria Rivera",
+    "email": null,
+    "signup_date": "18/04/2024",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0292",
+    "name": "Sofia Ramirez",
+    "email": "sofia.ramirez36@email.com",
+    "signup_date": "2024-11-07",
+    "plan_type": "Basic",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0293",
+    "name": "Juan Perez",
+    "email": "juan.perez402@email.com",
+    "signup_date": "2025-05-09",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0294",
+    "name": "Valeria Lopez",
+    "email": "valeria.lopez447@email.com",
+    "signup_date": "2024-01-02",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0295",
+    "name": "Alejandro Reyes",
+    "email": "alejandro.reyes69@email.com",
+    "signup_date": "31/10/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0296",
+    "name": "Fernanda Ramirez",
+    "email": "fernanda.ramirez737@email.com",
+    "signup_date": "2025-03-21",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0297",
+    "name": "Diego Torres",
+    "email": "diego.torres466@email.com",
+    "signup_date": "11/12/2024",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0298",
+    "name": "Luis Rodriguez",
+    "email": "luis.rodriguez933@email.com",
+    "signup_date": "09/04/2024",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0299",
+    "name": "Fernanda Rivera",
+    "email": "fernanda.rivera403@email.com",
+    "signup_date": "11/05/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0300",
+    "name": "Juan Flores",
+    "email": "juan.flores830@email.com",
+    "signup_date": "2024-08-16",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0301",
+    "name": "Daniela Lopez",
+    "email": "daniela.lopez683@email.com",
+    "signup_date": "07/07/2023",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0302",
+    "name": "Diego Perez",
+    "email": "diego.perez165@email.com",
+    "signup_date": "2024-03-19",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0303",
+    "name": "Isabella Rivera",
+    "email": "isabella.rivera669@email.com",
+    "signup_date": "2023-10-21",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0304",
+    "name": "Valeria Ramirez",
+    "email": "valeria.ramirez52@email.com",
+    "signup_date": "2023-05-19",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0305",
+    "name": "Miguel Ramirez",
+    "email": "miguel.ramirez615@email.com",
+    "signup_date": "2024-07-11",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0306",
+    "name": "Diego Gonzalez",
+    "email": null,
+    "signup_date": "28/06/2025",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0307",
+    "name": "Diego Reyes",
+    "email": "diego.reyes398@email.com",
+    "signup_date": "04/09/2023",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0308",
+    "name": "Ricardo Rivera",
+    "email": "ricardo.rivera876@email.com",
+    "signup_date": "07/09/2023",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0309",
+    "name": "Roberto Reyes",
+    "email": "roberto.reyes400@email.com",
+    "signup_date": "2024-01-30",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0310",
+    "name": "Ricardo Diaz",
+    "email": "ricardo.diaz749@email.com",
+    "signup_date": "2024-10-10",
+    "plan_type": "PREMIUM",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0311",
+    "name": "Carlos Garcia",
+    "email": "carlos.garcia997@email.com",
+    "signup_date": "2024-07-03",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0312",
+    "name": "Luis Torres",
+    "email": "luis.torres927@email.com",
+    "signup_date": "2025-06-06",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0313",
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia897@email.com",
+    "signup_date": "2024-05-17",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0314",
+    "name": "Daniela Torres",
+    "email": "daniela.torres545@email.com",
+    "signup_date": "2025-05-06",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0315",
+    "name": "Isabella Flores",
+    "email": "isabella.flores425@email.com",
+    "signup_date": "2023-11-20",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0316",
+    "name": "Maria Ramirez",
+    "email": "maria.ramirez429@email.com",
+    "signup_date": "2023-03-28",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0317",
+    "name": "Paola Diaz",
+    "email": "paola.diaz377@email.com",
+    "signup_date": "2023-07-20",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0318",
+    "name": "Carlos Reyes",
+    "email": "carlos.reyes343@email.com",
+    "signup_date": "05/06/2025",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0319",
+    "name": "Isabella Torres",
+    "email": "isabella.torres490@email.com",
+    "signup_date": "23/03/2023",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0320",
+    "name": "Isabella Perez",
+    "email": "isabella.perez961@email.com",
+    "signup_date": "2024-03-23",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0321",
+    "name": "Miguel Morales",
+    "email": "miguel.morales922@email.com",
+    "signup_date": "08/05/2024",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0322",
+    "name": "Maria Rodriguez",
+    "email": "maria.rodriguez877@email.com",
+    "signup_date": "26/04/2025",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0323",
+    "name": "Isabella Morales",
+    "email": "isabella.morales83@email.com",
+    "signup_date": "11/05/2025",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0324",
+    "name": "Andrea Garcia",
+    "email": "andrea.garcia649@email.com",
+    "signup_date": "25/11/2024",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0325",
+    "name": "Fernanda Lopez",
+    "email": null,
+    "signup_date": "16/04/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0326",
+    "name": "Ana Diaz",
+    "email": "ana.diaz367@email.com",
+    "signup_date": "17/03/2023",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0327",
+    "name": "Ricardo Perez",
+    "email": "ricardo.perez374@email.com",
+    "signup_date": "24/04/2025",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0328",
+    "name": "Maria Torres",
+    "email": "maria.torres807@email.com",
+    "signup_date": "31/05/2025",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0329",
+    "name": "Paola Gomez",
+    "email": "paola.gomez914@email.com",
+    "signup_date": "2024-05-09",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0330",
+    "name": "Jorge Reyes",
+    "email": "jorge.reyes655@email.com",
+    "signup_date": "2025-04-22",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0331",
+    "name": "Fernanda Ramirez",
+    "email": "fernanda.ramirez104@email.com",
+    "signup_date": "2024-08-27",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0332",
+    "name": "Jorge Flores",
+    "email": "jorge.flores79@email.com",
+    "signup_date": "2024-08-12",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0333",
+    "name": "Roberto Martinez",
+    "email": "roberto.martinez830@email.com",
+    "signup_date": "02/05/2023",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0334",
+    "name": "Miguel Gomez",
+    "email": "miguel.gomez686@email.com",
+    "signup_date": "2024-12-13",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0335",
+    "name": "Daniela Lopez",
+    "email": "daniela.lopez794@email.com",
+    "signup_date": "2025-01-20",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0336",
+    "name": "Valeria Morales",
+    "email": "valeria.morales598@email.com",
+    "signup_date": "2024-03-27",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0337",
+    "name": "Andrea Gomez",
+    "email": "andrea.gomez807@email.com",
+    "signup_date": "2023-09-07",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0338",
+    "name": "Ana Sanchez",
+    "email": "ana.sanchez213@email.com",
+    "signup_date": "2023-06-19",
+    "plan_type": "basic",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0339",
+    "name": "Paola Diaz",
+    "email": "paola.diaz618@email.com",
+    "signup_date": "2025-02-16",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0340",
+    "name": "Roberto Reyes",
+    "email": "roberto.reyes464@email.com",
+    "signup_date": "2023-08-18",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0341",
+    "name": "Camila Diaz",
+    "email": "camila.diaz219@email.com",
+    "signup_date": "04/09/2023",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0342",
+    "name": "Roberto Flores",
+    "email": "roberto.flores72@email.com",
+    "signup_date": "2025-05-08",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0343",
+    "name": "Andrea Diaz",
+    "email": "andrea.diaz308@email.com",
+    "signup_date": "04/04/2024",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0344",
+    "name": "Camila Garcia",
+    "email": "camila.garcia107@email.com",
+    "signup_date": "2024-07-20",
+    "plan_type": "basic",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0345",
+    "name": "Camila Ramirez",
+    "email": "camila.ramirez982@email.com",
+    "signup_date": "2025-04-18",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0346",
+    "name": "Daniela Diaz",
+    "email": "daniela.diaz508@email.com",
+    "signup_date": "2024-07-09",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0347",
+    "name": "Paola Perez",
+    "email": "paola.perez226@email.com",
+    "signup_date": "02/02/2024",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0348",
+    "name": "Roberto Morales",
+    "email": "roberto.morales536@email.com",
+    "signup_date": "2023-05-16",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0349",
+    "name": "Ricardo Rivera",
+    "email": null,
+    "signup_date": "23/11/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0350",
+    "name": "Luis Gomez",
+    "email": "luis.gomez384@email.com",
+    "signup_date": "2025-02-27",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0351",
+    "name": "Fernanda Ramirez",
+    "email": "fernanda.ramirez418@email.com",
+    "signup_date": "06/05/2025",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0352",
+    "name": "Andrea Torres",
+    "email": "andrea.torres27@email.com",
+    "signup_date": "2024-08-01",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0353",
+    "name": "Valeria Garcia",
+    "email": "valeria.garcia995@email.com",
+    "signup_date": "2024-12-26",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0354",
+    "name": "Fernanda Morales",
+    "email": "fernanda.morales961@email.com",
+    "signup_date": "2023-02-02",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0355",
+    "name": "Diego Gonzalez",
+    "email": "diego.gonzalez233@email.com",
+    "signup_date": "06/05/2025",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0356",
+    "name": "Paola Morales",
+    "email": "paola.morales722@email.com",
+    "signup_date": "2023-11-17",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0357",
+    "name": "Roberto Gomez",
+    "email": "roberto.gomez87@email.com",
+    "signup_date": "2023-04-11",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0358",
+    "name": "Luis Gonzalez",
+    "email": "luis.gonzalez813@email.com",
+    "signup_date": "2023-03-03",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0359",
+    "name": "Juan Reyes",
+    "email": "juan.reyes298@email.com",
+    "signup_date": "2023-04-25",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0360",
+    "name": "Juan Reyes",
+    "email": "juan.reyes48@email.com",
+    "signup_date": "18/04/2023",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0361",
+    "name": "Ana Flores",
+    "email": "ana.flores882@email.com",
+    "signup_date": "2023-12-07",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0362",
+    "name": "Camila Ramirez",
+    "email": "camila.ramirez458@email.com",
+    "signup_date": "31/12/2024",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0363",
+    "name": "Valeria Gomez",
+    "email": "valeria.gomez249@email.com",
+    "signup_date": "2025-04-11",
+    "plan_type": "Premium",
+    "city": "Puebla"
+  },
+  {
+    "user_id": "USR0364",
+    "name": "Juan Gonzalez",
+    "email": "juan.gonzalez97@email.com",
+    "signup_date": "2023-05-25",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0365",
+    "name": "Ricardo Lopez",
+    "email": "ricardo.lopez87@email.com",
+    "signup_date": "21/01/2023",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0366",
+    "name": "Ana Rodriguez",
+    "email": "ana.rodriguez216@email.com",
+    "signup_date": "2023-07-20",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0367",
+    "name": "Eduardo Martinez",
+    "email": "eduardo.martinez772@email.com",
+    "signup_date": "2023-04-04",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0368",
+    "name": "Isabella Reyes",
+    "email": "isabella.reyes255@email.com",
+    "signup_date": "2024-04-07",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0369",
+    "name": "Maria Garcia",
+    "email": "maria.garcia617@email.com",
+    "signup_date": "2025-03-03",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0370",
+    "name": "Luis Garcia",
+    "email": null,
+    "signup_date": "02/01/2024",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0371",
+    "name": "Diego Sanchez",
+    "email": "diego.sanchez75@email.com",
+    "signup_date": "09/08/2023",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0372",
+    "name": "Ana Ramirez",
+    "email": "ana.ramirez18@email.com",
+    "signup_date": "2023-01-04",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0373",
+    "name": "Diego Gonzalez",
+    "email": "diego.gonzalez443@email.com",
+    "signup_date": "2025-02-05",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0374",
+    "name": "Jorge Diaz",
+    "email": "jorge.diaz626@email.com",
+    "signup_date": "2023-12-29",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0375",
+    "name": "Daniela Torres",
+    "email": "daniela.torres574@email.com",
+    "signup_date": "28/07/2023",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0376",
+    "name": "Valeria Gomez",
+    "email": "valeria.gomez537@email.com",
+    "signup_date": "2023-06-02",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0377",
+    "name": "Jorge Ramirez",
+    "email": "jorge.ramirez323@email.com",
+    "signup_date": "2023-05-02",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0378",
+    "name": "Carlos Flores",
+    "email": "carlos.flores724@email.com",
+    "signup_date": "2024-07-01",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0379",
+    "name": "Jorge Morales",
+    "email": "jorge.morales699@email.com",
+    "signup_date": "15/05/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0380",
+    "name": "Diego Reyes",
+    "email": "diego.reyes786@email.com",
+    "signup_date": "2023-03-14",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0381",
+    "name": "Carlos Garcia",
+    "email": "carlos.garcia327@email.com",
+    "signup_date": "2023-05-02",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0382",
+    "name": "Isabella Sanchez",
+    "email": "isabella.sanchez738@email.com",
+    "signup_date": "2025-03-02",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0383",
+    "name": "Miguel Gonzalez",
+    "email": "miguel.gonzalez359@email.com",
+    "signup_date": "2025-06-18",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0384",
+    "name": "Miguel Martinez",
+    "email": "miguel.martinez365@email.com",
+    "signup_date": "07/05/2025",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0385",
+    "name": "Eduardo Flores",
+    "email": "eduardo.flores518@email.com",
+    "signup_date": "17/10/2024",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0386",
+    "name": "Daniela Garcia",
+    "email": "daniela.garcia956@email.com",
+    "signup_date": "16/04/2025",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0387",
+    "name": "Paola Ramirez",
+    "email": "paola.ramirez917@email.com",
+    "signup_date": "02/07/2023",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0388",
+    "name": "Jorge Rodriguez",
+    "email": "jorge.rodriguez884@email.com",
+    "signup_date": "2023-06-25",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0389",
+    "name": "Valeria Gomez",
+    "email": "valeria.gomez611@email.com",
+    "signup_date": "2023-09-14",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0390",
+    "name": "Eduardo Gonzalez",
+    "email": "eduardo.gonzalez764@email.com",
+    "signup_date": "2023-04-26",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0391",
+    "name": "Juan Reyes",
+    "email": "juan.reyes360@email.com",
+    "signup_date": "22/08/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0392",
+    "name": "Jorge Diaz",
+    "email": "jorge.diaz437@email.com",
+    "signup_date": "2025-03-24",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0393",
+    "name": "Ricardo Diaz",
+    "email": "ricardo.diaz832@email.com",
+    "signup_date": "2023-12-04",
+    "plan_type": "basic",
+    "city": "Cancun"
+  },
+  {
+    "user_id": "USR0394",
+    "name": "Roberto Torres",
+    "email": "roberto.torres599@email.com",
+    "signup_date": "23/07/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0395",
+    "name": "Andrea Garcia",
+    "email": "andrea.garcia332@email.com",
+    "signup_date": "2024-07-27",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0396",
+    "name": "Paola Diaz",
+    "email": "paola.diaz767@email.com",
+    "signup_date": "2024-07-04",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0397",
+    "name": "Diego Reyes",
+    "email": "diego.reyes955@email.com",
+    "signup_date": "2025-04-01",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0398",
+    "name": "Isabella Diaz",
+    "email": "isabella.diaz238@email.com",
+    "signup_date": "2025-05-19",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0399",
+    "name": "Roberto Rodriguez",
+    "email": null,
+    "signup_date": "2025-03-24",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0400",
+    "name": "Fernanda Martinez",
+    "email": "fernanda.martinez955@email.com",
+    "signup_date": "05/07/2023",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0401",
+    "name": "Carlos Perez",
+    "email": null,
+    "signup_date": "2025-04-02",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0402",
+    "name": "Sofia Lopez",
+    "email": null,
+    "signup_date": "2024-06-10",
+    "plan_type": "Premium",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0403",
+    "name": "Miguel Lopez",
+    "email": "miguel.lopez770@email.com",
+    "signup_date": "2025-04-13",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0404",
+    "name": "Miguel Rodriguez",
+    "email": "miguel.rodriguez89@email.com",
+    "signup_date": "24/02/2023",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0405",
+    "name": "Sofia Gonzalez",
+    "email": "sofia.gonzalez77@email.com",
+    "signup_date": "2023-03-31",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0406",
+    "name": "Camila Gomez",
+    "email": "camila.gomez526@email.com",
+    "signup_date": "2024-03-10",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0407",
+    "name": "Juan Garcia",
+    "email": null,
+    "signup_date": "2023-12-03",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0408",
+    "name": "Ricardo Diaz",
+    "email": "ricardo.diaz597@email.com",
+    "signup_date": "17/08/2023",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0409",
+    "name": "Juan Diaz",
+    "email": "juan.diaz916@email.com",
+    "signup_date": "2024-06-03",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0410",
+    "name": "Isabella Reyes",
+    "email": null,
+    "signup_date": "26/02/2024",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0411",
+    "name": "Luis Flores",
+    "email": "luis.flores991@email.com",
+    "signup_date": "2025-02-08",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0412",
+    "name": "Maria Morales",
+    "email": "maria.morales974@email.com",
+    "signup_date": "2024-11-19",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0413",
+    "name": "Juan Sanchez",
+    "email": "juan.sanchez694@email.com",
+    "signup_date": "28/06/2024",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0414",
+    "name": "Ricardo Reyes",
+    "email": null,
+    "signup_date": "2023-04-22",
+    "plan_type": "Basic",
+    "city": "Cancun"
+  },
+  {
+    "user_id": "USR0415",
+    "name": "Juan Rodriguez",
+    "email": "juan.rodriguez335@email.com",
+    "signup_date": "2023-08-12",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0416",
+    "name": "Luis Flores",
+    "email": "luis.flores254@email.com",
+    "signup_date": "2025-02-10",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0417",
+    "name": "Eduardo Torres",
+    "email": "eduardo.torres219@email.com",
+    "signup_date": "2025-05-09",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0418",
+    "name": "Valeria Rodriguez",
+    "email": "valeria.rodriguez760@email.com",
+    "signup_date": "2023-06-14",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0419",
+    "name": "Juan Torres",
+    "email": "juan.torres46@email.com",
+    "signup_date": "2025-04-29",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0420",
+    "name": "Daniela Gonzalez",
+    "email": "daniela.gonzalez374@email.com",
+    "signup_date": "2024-04-03",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0421",
+    "name": "Roberto Ramirez",
+    "email": "roberto.ramirez112@email.com",
+    "signup_date": "2024-03-05",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0422",
+    "name": "Luis Flores",
+    "email": null,
+    "signup_date": "2025-04-09",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0423",
+    "name": "Daniela Martinez",
+    "email": "daniela.martinez526@email.com",
+    "signup_date": "2024-09-02",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0424",
+    "name": "Andrea Gomez",
+    "email": "andrea.gomez109@email.com",
+    "signup_date": "2025-02-06",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0425",
+    "name": "Jorge Diaz",
+    "email": null,
+    "signup_date": "2025-04-04",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0426",
+    "name": "Ana Torres",
+    "email": "ana.torres537@email.com",
+    "signup_date": "11/11/2024",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0427",
+    "name": "Alejandro Ramirez",
+    "email": "alejandro.ramirez188@email.com",
+    "signup_date": "2023-08-08",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0428",
+    "name": "Andrea Martinez",
+    "email": "andrea.martinez502@email.com",
+    "signup_date": "2024-10-08",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0429",
+    "name": "Andrea Torres",
+    "email": "andrea.torres56@email.com",
+    "signup_date": "2024-05-28",
+    "plan_type": "Premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0430",
+    "name": "Paola Diaz",
+    "email": "paola.diaz349@email.com",
+    "signup_date": "2024-03-14",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0431",
+    "name": "Paola Flores",
+    "email": "paola.flores123@email.com",
+    "signup_date": "2024-08-01",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0432",
+    "name": "Alejandro Flores",
+    "email": "alejandro.flores919@email.com",
+    "signup_date": "2025-06-12",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0433",
+    "name": "Roberto Ramirez",
+    "email": "roberto.ramirez703@email.com",
+    "signup_date": "2023-11-17",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0434",
+    "name": "Miguel Rivera",
+    "email": "miguel.rivera210@email.com",
+    "signup_date": "2023-10-30",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0435",
+    "name": "Diego Rodriguez",
+    "email": "diego.rodriguez578@email.com",
+    "signup_date": "2025-05-14",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0436",
+    "name": "Sofia Ramirez",
+    "email": "sofia.ramirez850@email.com",
+    "signup_date": "2025-04-15",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0437",
+    "name": "Daniela Rivera",
+    "email": null,
+    "signup_date": "05/04/2023",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0438",
+    "name": "Camila Rivera",
+    "email": null,
+    "signup_date": "2024-07-24",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0439",
+    "name": "Eduardo Garcia",
+    "email": "eduardo.garcia277@email.com",
+    "signup_date": "2024-08-14",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0440",
+    "name": "Isabella Diaz",
+    "email": "isabella.diaz578@email.com",
+    "signup_date": "24/11/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0441",
+    "name": "Jorge Lopez",
+    "email": "jorge.lopez400@email.com",
+    "signup_date": "2024-05-08",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0442",
+    "name": "Isabella Lopez",
+    "email": "isabella.lopez139@email.com",
+    "signup_date": "2025-03-12",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0443",
+    "name": "Andrea Gomez",
+    "email": "andrea.gomez390@email.com",
+    "signup_date": "22/10/2024",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0444",
+    "name": "Ricardo Rodriguez",
+    "email": "ricardo.rodriguez850@email.com",
+    "signup_date": "2025-05-18",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0445",
+    "name": "Juan Diaz",
+    "email": "juan.diaz542@email.com",
+    "signup_date": "2025-06-15",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0446",
+    "name": "Camila Torres",
+    "email": "camila.torres573@email.com",
+    "signup_date": "2025-05-07",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0447",
+    "name": "Ana Rivera",
+    "email": "ana.rivera808@email.com",
+    "signup_date": "2023-07-27",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0448",
+    "name": "Isabella Diaz",
+    "email": "isabella.diaz602@email.com",
+    "signup_date": "21/03/2023",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0449",
+    "name": "Roberto Morales",
+    "email": "roberto.morales244@email.com",
+    "signup_date": "2023-06-20",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0450",
+    "name": "Ricardo Rivera",
+    "email": "ricardo.rivera140@email.com",
+    "signup_date": "2023-12-05",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0451",
+    "name": "Camila Gomez",
+    "email": "camila.gomez239@email.com",
+    "signup_date": "2023-04-19",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0452",
+    "name": "Andrea Lopez",
+    "email": "andrea.lopez929@email.com",
+    "signup_date": "2023-07-19",
+    "plan_type": "PREMIUM",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0453",
+    "name": "Fernanda Rodriguez",
+    "email": "fernanda.rodriguez204@email.com",
+    "signup_date": "25/09/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0454",
+    "name": "Ricardo Rivera",
+    "email": "ricardo.rivera46@email.com",
+    "signup_date": "06/04/2023",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0455",
+    "name": "Ana Lopez",
+    "email": "ana.lopez467@email.com",
+    "signup_date": "04/07/2023",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0456",
+    "name": "Luis Diaz",
+    "email": "luis.diaz207@email.com",
+    "signup_date": "2023-10-12",
+    "plan_type": "premium",
+    "city": "Tijuana"
+  },
+  {
+    "user_id": "USR0457",
+    "name": "Paola Sanchez",
+    "email": "paola.sanchez526@email.com",
+    "signup_date": "2024-03-03",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0458",
+    "name": "Andrea Gomez",
+    "email": "andrea.gomez105@email.com",
+    "signup_date": "2024-05-27",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0459",
+    "name": "Diego Martinez",
+    "email": null,
+    "signup_date": "05/08/2024",
+    "plan_type": "PREMIUM",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0460",
+    "name": "Ricardo Ramirez",
+    "email": "ricardo.ramirez109@email.com",
+    "signup_date": "2023-09-22",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0461",
+    "name": "Carlos Flores",
+    "email": "carlos.flores408@email.com",
+    "signup_date": "2024-07-29",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0462",
+    "name": "Ana Reyes",
+    "email": "ana.reyes746@email.com",
+    "signup_date": "2023-02-13",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0463",
+    "name": "Diego Sanchez",
+    "email": "diego.sanchez982@email.com",
+    "signup_date": "2025-03-18",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0464",
+    "name": "Miguel Morales",
+    "email": "miguel.morales15@email.com",
+    "signup_date": "2024-11-03",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0465",
+    "name": "Juan Martinez",
+    "email": "juan.martinez626@email.com",
+    "signup_date": "2025-04-04",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0466",
+    "name": "Valeria Rodriguez",
+    "email": "valeria.rodriguez46@email.com",
+    "signup_date": "11/10/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0467",
+    "name": "Roberto Torres",
+    "email": "roberto.torres22@email.com",
+    "signup_date": "2024-09-13",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0468",
+    "name": "Isabella Ramirez",
+    "email": "isabella.ramirez205@email.com",
+    "signup_date": "2023-07-07",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0469",
+    "name": "Maria Gonzalez",
+    "email": "maria.gonzalez977@email.com",
+    "signup_date": "12/03/2023",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0470",
+    "name": "Paola Sanchez",
+    "email": "paola.sanchez770@email.com",
+    "signup_date": "2025-04-21",
+    "plan_type": "Basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0471",
+    "name": "Daniela Martinez",
+    "email": null,
+    "signup_date": "2023-04-15",
+    "plan_type": "PREMIUM",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0472",
+    "name": "Jorge Reyes",
+    "email": "jorge.reyes138@email.com",
+    "signup_date": "2024-07-11",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0473",
+    "name": "Camila Torres",
+    "email": "camila.torres64@email.com",
+    "signup_date": "2024-07-27",
+    "plan_type": "Premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0474",
+    "name": "Ricardo Gonzalez",
+    "email": "ricardo.gonzalez377@email.com",
+    "signup_date": "2023-12-22",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0475",
+    "name": "Luis Flores",
+    "email": null,
+    "signup_date": "21/03/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0476",
+    "name": "Ana Rivera",
+    "email": "ana.rivera252@email.com",
+    "signup_date": "2024-08-19",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0477",
+    "name": "Valeria Martinez",
+    "email": "valeria.martinez360@email.com",
+    "signup_date": "2024-11-25",
+    "plan_type": "basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0478",
+    "name": "Isabella Martinez",
+    "email": "isabella.martinez862@email.com",
+    "signup_date": "09/06/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0479",
+    "name": "Alejandro Gonzalez",
+    "email": "alejandro.gonzalez763@email.com",
+    "signup_date": "13/11/2023",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0480",
+    "name": "Diego Perez",
+    "email": "diego.perez405@email.com",
+    "signup_date": "09/05/2023",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0481",
+    "name": "Jorge Rivera",
+    "email": "jorge.rivera642@email.com",
+    "signup_date": "11/03/2024",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0482",
+    "name": "Miguel Gonzalez",
+    "email": "miguel.gonzalez659@email.com",
+    "signup_date": "2024-03-16",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0483",
+    "name": "Valeria Martinez",
+    "email": "valeria.martinez635@email.com",
+    "signup_date": "2024-07-31",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0484",
+    "name": "Diego Diaz",
+    "email": "diego.diaz33@email.com",
+    "signup_date": "2023-07-20",
+    "plan_type": "premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0485",
+    "name": "Ana Gonzalez",
+    "email": "ana.gonzalez33@email.com",
+    "signup_date": "2024-03-13",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0486",
+    "name": "Miguel Torres",
+    "email": "miguel.torres833@email.com",
+    "signup_date": "14/03/2023",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0487",
+    "name": "Daniela Reyes",
+    "email": null,
+    "signup_date": "2023-07-19",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0488",
+    "name": "Paola Perez",
+    "email": "paola.perez900@email.com",
+    "signup_date": "11/06/2024",
+    "plan_type": "basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0489",
+    "name": "Valeria Flores",
+    "email": "valeria.flores776@email.com",
+    "signup_date": "2023-05-15",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0490",
+    "name": "Paola Diaz",
+    "email": "paola.diaz382@email.com",
+    "signup_date": "21/03/2023",
+    "plan_type": "Premium",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0491",
+    "name": "Valeria Rodriguez",
+    "email": "valeria.rodriguez7@email.com",
+    "signup_date": "14/12/2023",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0492",
+    "name": "Valeria Rivera",
+    "email": "valeria.rivera211@email.com",
+    "signup_date": "2023-09-10",
+    "plan_type": "premium",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0493",
+    "name": "Daniela Torres",
+    "email": "daniela.torres129@email.com",
+    "signup_date": "02/06/2023",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0494",
+    "name": "Sofia Sanchez",
+    "email": "sofia.sanchez917@email.com",
+    "signup_date": "2024-01-09",
+    "plan_type": "basic",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0495",
+    "name": "Daniela Martinez",
+    "email": "daniela.martinez348@email.com",
+    "signup_date": "11/09/2023",
+    "plan_type": "basic",
+    "city": "Leon"
+  },
+  {
+    "user_id": "USR0496",
+    "name": "Daniela Rivera",
+    "email": "daniela.rivera84@email.com",
+    "signup_date": "01/04/2024",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  },
+  {
+    "user_id": "USR0497",
+    "name": "Ricardo Lopez",
+    "email": "ricardo.lopez686@email.com",
+    "signup_date": "2023-01-20",
+    "plan_type": "PREMIUM",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0498",
+    "name": "Camila Sanchez",
+    "email": "camila.sanchez934@email.com",
+    "signup_date": "2024-08-28",
+    "plan_type": "premium",
+    "city": "Monterrey"
+  },
+  {
+    "user_id": "USR0499",
+    "name": "Ricardo Lopez",
+    "email": "ricardo.lopez161@email.com",
+    "signup_date": "21/05/2024",
+    "plan_type": "Basic",
+    "city": "Guadalajara"
+  },
+  {
+    "user_id": "USR0500",
+    "name": "Roberto Garcia",
+    "email": "roberto.garcia68@email.com",
+    "signup_date": "2023-08-19",
+    "plan_type": "Basic",
+    "city": "CDMX"
+  }
+]

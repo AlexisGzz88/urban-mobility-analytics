@@ -1,0 +1,39 @@
+bundle:
+  name: urban_mobility
+
+variables:
+  catalog:
+    description: "Unity Catalog target según el ambiente"
+  cluster_id:
+    description: "ID del cluster existente para ejecución de jobs"
+  project_root:
+    description: "Ruta en el workspace donde viven los notebooks"
+    default: /Workspace/Users/alexis182@hotmail.com/urban_mobility_project
+  notification_email:
+    description: "Email para alertas de fallo"
+    default: alexisharo88@gmail.com
+
+targets:
+
+  # ── Desarrollo ────────────────────────────────────────────────────────────────
+  dev:
+    mode: development
+    workspace:
+      host: https://adb-335747394317880.0.azuredatabricks.net
+      root_path: /Workspace/Users/alexis182@hotmail.com/.bundle/${bundle.name}/${bundle.target}
+    variables:
+      catalog: urban_mobility_dev
+      cluster_id: 1117-181401-wlrft7z6
+
+  # ── Producción ────────────────────────────────────────────────────────────────
+  prod:
+    mode: production
+    workspace:
+      # Mismo workspace hoy. Para migrar a workspace productivo separado,
+      # reemplazar este host por el de la nueva instancia sin tocar nada más:
+      # host: https://adb-PROD_WORKSPACE_ID.azuredatabricks.net
+      host: https://adb-335747394317880.0.azuredatabricks.net
+      root_path: /Workspace/Users/alexis182@hotmail.com/.bundle/${bundle.name}/${bundle.target}
+    variables:
+      catalog: urban_mobility_catalog
+      cluster_id: 1117-181401-wlrft7z6

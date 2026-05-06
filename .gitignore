@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Databricks bundle state (generado localmente por el CLI)
+urban_mobility_bundle/.databricks/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Secrets
+*.token
+.databrickscfg
