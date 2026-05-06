@@ -220,14 +220,48 @@ The dataset includes realistic data quality problems designed to test the pipeli
 
 ---
 
-## Data Quality Dashboard
+## Dashboards
 
-An AI/BI dashboard provides real-time visibility into pipeline health:
+### Data Quality Dashboard
+
+An AI/BI dashboard provides real-time visibility into pipeline health across all 5 entities:
 
 - **KPIs:** Total records per layer, Pass Rate %, Quarantine count, Flagged records, Average fare
 - **Charts:** Layer flow (Bronze → Silver → Quarantine), City distribution, Trip categories, Payment methods
 - **Trend:** Monthly trip volume over 18 months
-- **Table:** Quarantine record detail with rejection context
+- **Table:** Quarantine record detail with rejection context (consolidated `bronze.dq_quarantine` table)
+
+### Business Intelligence Dashboard
+
+A second AI/BI dashboard built on top of the Gold layer exposes the key business KPIs of the platform:
+
+| Section | Content |
+|---|---|
+| **KPIs** | Total Revenue MXN · Total Trips · Avg Fare · Active Fleet · Total Users · Maintenance Cost USD |
+| **Operations** | Revenue and trip count by city (CDMX / Monterrey / Guadalajara) |
+| **Trends** | Monthly trip volume and revenue over 18 months |
+| **Fleet** | Vehicle status breakdown · Fleet distribution by city |
+| **Users** | User count by plan type (Basic / Premium) |
+| **Maintenance** | Cost by issue type · Monthly maintenance spend trend |
+| **Telemetry** | Event count by type · Hourly activity heatmap (peak hours: 7–9am, 6–8pm) |
+
+Built on 11 Gold aggregation tables covering all 5 entities.
+
+---
+
+## Genie Space — Natural Language Analytics
+
+A **Databricks Genie Space** is available on top of the Gold layer, enabling any user to explore the data through natural language without writing SQL.
+
+**Connected tables:** all 11 Gold tables (trips, users, vehicles, maintenance_logs, ride_events)
+
+Sample questions the Genie Space can answer:
+
+- *¿Cuál ciudad genera más ingresos totales?*
+- *¿A qué hora del día hay más actividad en la flota?*
+- *¿Qué tipo de mantenimiento tiene el mayor costo promedio?*
+- *¿Cómo han evolucionado los viajes mes a mes?*
+- *¿Cuánto revenue total se generó en los últimos 6 meses?*
 
 ---
 
@@ -338,8 +372,8 @@ All jobs: `demo_cluster` (`1117-181401-wlrft7z6`) · email alerts on failure.
 
 ## Roadmap
 
-- [ ] **Asset Bundles (DAB)** — multi-environment deployment and CI/CD via GitHub Actions
-- [ ] **Extended DQ Dashboard** — add metrics for all 5 entities
+- [x] **Asset Bundles (DAB)** — multi-environment deployment (dev/prod) and CI/CD via GitHub Actions
+- [x] **Extended DQ Dashboard** — metrics for all 5 entities with consolidated quarantine table
 - [ ] **Integration tests** — validate Delta table contracts and row count expectations per run
 
 ---
