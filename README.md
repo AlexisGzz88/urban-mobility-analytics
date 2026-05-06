@@ -12,29 +12,32 @@ The goal is to demonstrate a production-grade, end-to-end data architecture comb
 ADLS Gen2 (Landing)
         │
         ▼
-┌───────────────────────────────────────────────────┐
-│              Databricks + Unity Catalog            │
-│                                                   │
-│  [00] Metadata Generator                          │
-│       Schema inference + YAML config generation   │
-│                │                                  │
-│                ▼                                  │
-│  [01] Bronze Loader     ──► bronze.{entity}       │
-│       Raw ingestion                               │
-│       + audit columns                             │
-│                │                                  │
-│                ▼                                  │
-│  [02] Silver Cleaner    ──► silver.{entity}       │
-│       YAML-driven transforms                      │
-│       + quarantine + DQ metrics                   │
-│                │                                  │
-│                ▼                                  │
-│  [03] Gold Aggregator   ──► gold.{agg_name}       │
-│       Business aggregations                       │
-└───────────────────────────────────────────────────┘
-        │
-        ▼
- AI/BI Dashboard (Data Quality Health)
+┌──────────────────────────────────────────────────────────────────────┐
+│                    Databricks + Unity Catalog                         │
+│                                                                      │
+│  [00] Metadata Generator                                             │
+│       Schema inference + YAML config generation                      │
+│                │                                                     │
+│                ▼                                                     │
+│  [01] Bronze Loader     ──► bronze.{entity}      ◄── [04] Streaming │
+│       Raw ingestion          + dq_quarantine           Auto Loader   │
+│       + audit columns        + dq_run_results          (ride_events) │
+│                │             + dq_referential_integrity              │
+│                ▼                      │                              │
+│  [02] Silver Cleaner    ──► silver.{entity}                          │
+│       YAML-driven transforms                                         │
+│       + quarantine + DQ metrics                                      │
+│                │                                                     │
+│                ▼                                                     │
+│  [03] Gold Aggregator   ──► gold.{agg_name} (11 tables)             │
+│       Business aggregations (trips · users · vehicles                │
+│       maintenance_logs · ride_events)                                │
+└──────────────────────────────────────────────────────────────────────┘
+        │                         │                        │
+        ▼                         ▼                        ▼
+ AI/BI Dashboard            AI/BI Dashboard           Genie Space
+ Data Quality Health        Business Intelligence      Natural Language
+ (Silver + DQ tables)       (Gold layer — 11 tables)  (Gold layer — 11 tables)
 ```
 
 ---
